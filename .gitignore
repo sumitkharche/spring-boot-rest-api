@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+.classpath
+/bin/
+.idea
+spring-boot-rest-api.iml
+spring-boot-rest-api.ipr
+spring-boot-rest-api.iws
