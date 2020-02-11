@@ -50,9 +50,13 @@ Following webservices are available with example CURL command:
 
 ## Test Coverage:
 
+To luanch the test suite, run following gradle command:
+
+`./gradlew test`
+
 Here is screenshot of the test coverage report:
 
-![alt info](TestCoverageReport.JPG)
+![alt image](https://github.com/pranav8494/spring-boot-rest-api/blob/master/test_Coverage.JPG)
 
 ## Implementation Details:
 
