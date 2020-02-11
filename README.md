@@ -21,7 +21,7 @@ From within project directory run following command  (follow as per your case):
 ### From IntelliJ IDE.
 * Gradle is configured to build for IntelliJ. Run following command and import project in IntelliJ:
  <br/>`./gradlew idea`
-* Run `Main` from `EveronApplication.java`.
+* Run `Main` from `EvApplication.java`.
 
 ## APIs
 You can target [http://localhost:8080](http://localhost:8080).
